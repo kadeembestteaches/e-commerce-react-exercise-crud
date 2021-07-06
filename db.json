@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 10,
+      "title": "Shirt",
+      "qty": 40,
+      "unitPrice": 10,
+      "costPrice": 1,
+      "isBestSeller": true
+    },
+    {
+      "id": 11,
+      "title": "Pants",
+      "qty": 30,
+      "unitPrice": 20,
+      "costPrice": 2,
+      "isBestSeller": false
+    },
+    {
+      "title": "Bruce Wayne",
+      "unitPrice": 200,
+      "costPrice": 20,
+      "qty": 200,
+      "details": "blah",
+      "isBestSeller": true,
+      "image": "https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_Vol_3_86_Textless.jpg/revision/latest?cb=20200502132734",
+      "id": 12
+    },
+    {
+      "title": "Superman",
+      "unitPrice": 38,
+      "costPrice": 7,
+      "qty": 7,
+      "details": "jdhdb",
+      "isBestSeller": true,
+      "image": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fjvchamary%2Ffiles%2F2016%2F03%2Fman_of_steel-1200x800.jpg",
+      "id": 13
+    },
+    {
+      "title": "60 Samsung TV",
+      "unitPrice": 5,
+      "costPrice": 5,
+      "qty": 11,
+      "details": "Test",
+      "isBestSeller": false,
+      "image": "blah.jpeg",
+      "id": 14
+    },
+    {
+      "title": "wonderwoman",
+      "unitPrice": 8,
+      "costPrice": 8,
+      "qty": 8,
+      "details": "8",
+      "isBestSeller": true,
+      "image": "https://variety.com/wp-content/uploads/2020/04/wonder-woman-1984-columns-e1605234040302.jpg",
+      "id": 15
+    }
+  ]
+}
